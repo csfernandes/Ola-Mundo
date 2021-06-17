@@ -41,4 +41,4 @@ else:
  print (f'O valor {num} é impar')
 ```
 
-:smil
+😄
